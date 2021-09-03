@@ -1,6 +1,3 @@
-//my attempt at making a 3d game in processing
-//i gave up because i couldn't figure out how to move the objects independently of each other
-
 float x = 400;
 float y = 300;
 float z = 0;
